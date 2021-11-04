@@ -1,5 +1,6 @@
 body{
     background-color: brown;
+    font-family: 'Rajdhani', sans-serif;
 }
 header {
     color: brown;
@@ -30,6 +31,7 @@ footer{
     padding: 20px;
     text-align: center;
     margin: 0 auto 50px  auto ;
+    
     
 
 }
