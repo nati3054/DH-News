@@ -5,6 +5,7 @@ body{
 header {
     color: brown;
     font-size: 44px;
+    font-weight: 300px;
 }
 main {
     background-color: #f5e3e0;
@@ -12,7 +13,7 @@ main {
     width: 960px;
     margin: 50px auto 50px auto;
     padding: 50px;
-    border-radius: 30px;
+    border-radius: 25px;
 }
 .destaque {
     width: 100%;
